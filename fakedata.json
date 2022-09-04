@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "v-name": "T1",
+        "status": "Busy",
+        "will-free": "25 min later",
+        "size": 25,
+        "capacity": "16 Ton"
+    },
+    {
+        "id": 2,
+        "v-name": "T2",
+        "status": "Free",
+        "will-free": "30 min later",
+        "size": 18,
+        "capacity": "16 Ton"
+    },
+    {
+        "id": 3,
+        "v-name": "T3",
+        "status": "Free",
+        "will-free": "25 min later",
+        "size": 22,
+        "capacity": "18 Ton"
+    },
+    {
+        "id": 4,
+        "v-name": "T4",
+        "status": "Busy",
+        "will-free": "45 min later",
+        "size": 25,
+        "capacity": "22 Ton"
+    },
+    {
+        "id": 5,
+        "v-name": "T5",
+        "status": "Busy",
+        "will-free": "20 min later",
+        "size": 18,
+        "capacity": "16 Ton"
+    }
+]
